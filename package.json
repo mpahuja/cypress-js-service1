@@ -1,0 +1,22 @@
+{
+  "name": "cypress-js-service1",
+  "version": "1.0.0",
+  "description": "Service package to show use of Common JS code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpahuja/cypress-js-service1.git"
+  },
+  "author": "Manoj Pahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpahuja/cypress-js-service1/issues"
+  },
+  "homepage": "https://github.com/mpahuja/cypress-js-service1#readme",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
